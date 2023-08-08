@@ -1,0 +1,1602 @@
+[
+  {
+    "notes": [
+      {
+        "id": "e173586f-3f91-4a13-b4ba-df25ae2e6368",
+        "created_at": "2023-08-08T07:04:38.669Z",
+        "updated_at": "2023-08-08T07:22:19.676Z",
+        "title": "Meeting Notes",
+        "content": "Discussed new marketing strategy for Q4"
+      },
+      {
+        "id": "60990952-7129-49b9-9780-2c3b817bf800",
+        "created_at": "2023-08-07T18:48:30.315Z",
+        "updated_at": "2023-08-07T22:12:22.982Z",
+        "title": "Project Ideas",
+        "content": "Brainstormed innovative product features"
+      },
+      {
+        "id": "5f0db354-1804-4f71-91d0-737f71b18a10",
+        "created_at": "2023-08-08T07:04:53.858Z",
+        "updated_at": "2023-08-07T12:58:05.671Z",
+        "title": "Research Findings",
+        "content": "Analyzed data trends and patterns"
+      },
+      {
+        "id": "467a7901-9d20-4c2e-b9c0-89426565bb91",
+        "created_at": "2023-08-07T14:25:20.041Z",
+        "updated_at": "2023-08-07T11:56:19.579Z",
+        "title": "Action Items",
+        "content": "Outlined tasks for team members"
+      },
+      {
+        "id": "e1bcd231-91ee-4e23-b155-0f08797906a7",
+        "created_at": "2023-08-08T00:18:05.159Z",
+        "updated_at": "2023-08-07T23:22:30.814Z",
+        "title": "Conference Summary",
+        "content": "Summarized key takeaways from industry conference"
+      }
+    ],
+    "course": [
+      {
+        "id": "dfb7175b-33c3-469b-9402-eec9fec2d033",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language",
+        "created_at": "2023-08-07T09:52:41.720Z",
+        "updated_at": "2023-08-07T16:17:32.168Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "8deb0fac-e402-48cf-9deb-7cb4b96457fa",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development",
+        "created_at": "2023-08-07T11:14:40.255Z",
+        "updated_at": "2023-08-07T21:41:02.171Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "2ae55bfa-5bf1-4cd6-91c3-e3b2d3cc70e1",
+        "title": "Data Science for Beginners",
+        "description": "Explore the world of data science and analytics",
+        "created_at": "2023-08-07T10:45:23.091Z",
+        "updated_at": "2023-08-07T22:05:32.739Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "f524d5bd-c8fe-4d41-a497-7babf72de393",
+        "title": "Project Management Essentials",
+        "description": "Gain essential skills for effective project management",
+        "created_at": "2023-08-07T11:46:41.965Z",
+        "updated_at": "2023-08-08T08:58:19.112Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "f0b5057a-6d18-467a-90b9-bed70adab06e",
+        "title": "Digital Marketing Strategies",
+        "description": "Discover effective strategies for digital marketing",
+        "created_at": "2023-08-07T12:37:25.138Z",
+        "updated_at": "2023-08-07T20:59:33.281Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "326da8cb-7b0d-443c-a439-93b994c39dee",
+        "created_at": "2023-08-07T22:33:19.604Z",
+        "updated_at": "2023-08-07T10:49:37.527Z",
+        "course_id": "f0b5057a-6d18-467a-90b9-bed70adab06e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ba1ef8b6-0af1-4058-91c8-f1656325d661",
+        "created_at": "2023-08-08T07:15:05.682Z",
+        "updated_at": "2023-08-07T13:38:41.437Z",
+        "course_id": "8deb0fac-e402-48cf-9deb-7cb4b96457fa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9eb48f13-8e41-4d39-9538-dbfe3f8f5574",
+        "created_at": "2023-08-08T08:34:16.209Z",
+        "updated_at": "2023-08-08T01:30:41.555Z",
+        "course_id": "2ae55bfa-5bf1-4cd6-91c3-e3b2d3cc70e1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9c3ab01f-c737-475d-81e2-c615f7324b7a",
+        "created_at": "2023-08-07T09:38:56.932Z",
+        "updated_at": "2023-08-07T21:57:30.417Z",
+        "course_id": "8deb0fac-e402-48cf-9deb-7cb4b96457fa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3db5e5d0-fc01-4df9-a36e-baae6f066011",
+        "created_at": "2023-08-08T08:51:19.148Z",
+        "updated_at": "2023-08-08T08:44:30.121Z",
+        "course_id": "f524d5bd-c8fe-4d41-a497-7babf72de393",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "3b1c445c-9d9f-4754-9537-634908c81e09",
+        "title": "10 Tips for a Healthy Lifestyle",
+        "content": "Simple and practical tips for maintaining a healthy lifestyle",
+        "created_at": "2023-08-08T07:10:11.267Z",
+        "updated_at": "2023-08-08T07:26:29.691Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "bc87646d-64fe-4071-974e-352019ce28c7",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Insights into the advancements and potential of AI technology",
+        "created_at": "2023-08-07T12:18:00.533Z",
+        "updated_at": "2023-08-07T18:46:52.962Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "b2eda768-8fce-49bf-b351-d79eeb4cfeb5",
+        "title": "How to Improve Your Productivity",
+        "content": "Proven strategies to enhance personal and professional productivity",
+        "created_at": "2023-08-07T15:40:15.856Z",
+        "updated_at": "2023-08-08T00:10:05.210Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "ea1066c3-7836-4684-83d4-0f6b678f85d6",
+        "title": "The Importance of Work-Life Balance",
+        "content": "Exploring the benefits of maintaining a healthy work-life balance",
+        "created_at": "2023-08-07T12:01:47.545Z",
+        "updated_at": "2023-08-07T18:02:27.005Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "13f61195-a4d0-42fe-bc67-0d1751ae895d",
+        "title": "Top Travel Destinations for 2022",
+        "content": "Exciting travel destinations to consider for your next vacation",
+        "created_at": "2023-08-08T02:52:39.029Z",
+        "updated_at": "2023-08-08T00:38:23.454Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "notes": [
+      {
+        "id": "7c51469e-bebd-4d53-aa0f-806021f79a7d",
+        "created_at": "2023-08-08T05:18:08.060Z",
+        "updated_at": "2023-08-08T00:04:05.622Z",
+        "title": "Meeting Notes",
+        "content": "Discussed plans for upcoming event"
+      },
+      {
+        "id": "fd6587ad-a703-4145-be7f-763a0d452bd8",
+        "created_at": "2023-08-07T19:09:06.225Z",
+        "updated_at": "2023-08-07T13:17:53.249Z",
+        "title": "Project Updates",
+        "content": "Shared progress on development tasks"
+      },
+      {
+        "id": "098824af-6c8b-4e64-b1d3-e60e50e0265c",
+        "created_at": "2023-08-08T08:24:54.092Z",
+        "updated_at": "2023-08-08T07:09:53.344Z",
+        "title": "Ideas for Improvement",
+        "content": "Brainstormed ideas for marketing campaign"
+      },
+      {
+        "id": "22a73d68-9067-4320-afbc-0409d3e73aa3",
+        "created_at": "2023-08-07T18:52:06.474Z",
+        "updated_at": "2023-08-08T09:09:34.297Z",
+        "title": "Action Items",
+        "content": "Outlined tasks for team members"
+      },
+      {
+        "id": "43e42c40-767f-43f6-af15-17606ec18bea",
+        "created_at": "2023-08-08T08:04:51.134Z",
+        "updated_at": "2023-08-07T15:24:10.739Z",
+        "title": "Research Findings",
+        "content": "Summarized findings from market research"
+      }
+    ],
+    "course": [
+      {
+        "id": "14e6d104-602e-4df1-9a64-8eac9545dc85",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language",
+        "created_at": "2023-08-07T23:27:45.894Z",
+        "updated_at": "2023-08-07T18:25:54.354Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "62b598cc-4c92-47aa-babd-2a6eac0d1aec",
+        "title": "Web Development Fundamentals",
+        "description": "Explore the fundamentals of web development",
+        "created_at": "2023-08-08T06:12:35.608Z",
+        "updated_at": "2023-08-07T22:57:45.680Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "692d0e8c-bfbd-4d2e-9f67-7780075d672c",
+        "title": "Data Analysis Techniques",
+        "description": "Master data analysis techniques using popular tools",
+        "created_at": "2023-08-07T14:30:36.295Z",
+        "updated_at": "2023-08-08T02:07:52.862Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "f1505d82-c1c5-4a47-94c4-af9bc5f7d598",
+        "title": "Project Management Essentials",
+        "description": "Gain essential skills for effective project management",
+        "created_at": "2023-08-07T18:29:09.947Z",
+        "updated_at": "2023-08-07T17:05:41.129Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "b3741d51-f5a7-4a33-ae8d-3e45592f945b",
+        "title": "Digital Marketing Strategies",
+        "description": "Discover effective strategies for digital marketing",
+        "created_at": "2023-08-07T10:34:39.542Z",
+        "updated_at": "2023-08-07T23:20:57.502Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "b667e608-508b-4807-b722-9ada38bf9c5c",
+        "created_at": "2023-08-07T09:38:03.847Z",
+        "updated_at": "2023-08-08T02:27:46.288Z",
+        "course_id": "692d0e8c-bfbd-4d2e-9f67-7780075d672c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c466c61d-55ae-418b-85a7-0ff02565f6ad",
+        "created_at": "2023-08-08T05:16:40.969Z",
+        "updated_at": "2023-08-08T01:35:30.324Z",
+        "course_id": "62b598cc-4c92-47aa-babd-2a6eac0d1aec",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f4582434-e0bf-4046-9c98-a260d842ebf8",
+        "created_at": "2023-08-07T11:10:43.995Z",
+        "updated_at": "2023-08-08T08:46:31.174Z",
+        "course_id": "692d0e8c-bfbd-4d2e-9f67-7780075d672c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b69c1a9f-02a7-4137-a9c1-b40fb2719280",
+        "created_at": "2023-08-07T09:54:23.560Z",
+        "updated_at": "2023-08-08T08:13:18.694Z",
+        "course_id": "f1505d82-c1c5-4a47-94c4-af9bc5f7d598",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "142796e9-221e-4149-b0ad-63c1ebf952ee",
+        "created_at": "2023-08-08T08:36:26.524Z",
+        "updated_at": "2023-08-07T10:24:05.324Z",
+        "course_id": "f1505d82-c1c5-4a47-94c4-af9bc5f7d598",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "b4ef6f1a-f92f-41db-909d-078739b9ac6a",
+        "title": "10 Tips for a Healthy Lifestyle",
+        "content": "Simple yet effective tips for maintaining a healthy lifestyle",
+        "created_at": "2023-08-07T15:27:49.963Z",
+        "updated_at": "2023-08-07T10:36:44.804Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "d9a551c9-fa0e-44d3-ac95-5dfa388deb9c",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Insights into the advancements and potential of AI",
+        "created_at": "2023-08-07T19:11:29.911Z",
+        "updated_at": "2023-08-07T22:32:47.707Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "21716da8-865d-49ea-9820-3dfe570205c6",
+        "title": "Effective Communication in the Workplace",
+        "content": "Strategies for improving communication in professional settings",
+        "created_at": "2023-08-07T11:42:59.873Z",
+        "updated_at": "2023-08-08T06:19:59.911Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "5b677a12-4e32-4fe6-942c-09e5ad74f09d",
+        "title": "The Power of Positive Thinking",
+        "content": "Exploring the impact of positive thinking on personal growth",
+        "created_at": "2023-08-08T08:19:54.055Z",
+        "updated_at": "2023-08-07T22:47:52.424Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "9b5c7fae-3c60-482c-8941-fd90286c5de7",
+        "title": "How to Improve Your Productivity",
+        "content": "Practical techniques to enhance productivity in daily life",
+        "created_at": "2023-08-08T04:57:44.906Z",
+        "updated_at": "2023-08-07T09:51:38.755Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "notes": [
+      {
+        "id": "9c1a0d61-6cf8-463a-99a8-7ad2082e81bb",
+        "created_at": "2023-08-08T07:52:46.878Z",
+        "updated_at": "2023-08-07T11:23:24.393Z",
+        "title": "Meeting Notes",
+        "content": "Discussed new marketing strategy for Q4"
+      },
+      {
+        "id": "62f59db0-46de-403a-952d-96ca005cdd10",
+        "created_at": "2023-08-07T14:38:07.680Z",
+        "updated_at": "2023-08-07T10:00:07.341Z",
+        "title": "Project Updates",
+        "content": "Reviewed progress on website redesign"
+      },
+      {
+        "id": "455112ea-d133-44d7-a930-1cb2ed07709f",
+        "created_at": "2023-08-07T23:08:47.652Z",
+        "updated_at": "2023-08-07T17:15:44.381Z",
+        "title": "Ideas for Improvement",
+        "content": "Brainstormed ideas for product enhancement"
+      },
+      {
+        "id": "6814404b-19c9-4ef1-b897-bc8dbceedd4d",
+        "created_at": "2023-08-07T19:03:24.238Z",
+        "updated_at": "2023-08-07T15:10:13.607Z",
+        "title": "Action Items",
+        "content": "Assigned tasks for upcoming sprint"
+      },
+      {
+        "id": "e0ab909b-df57-433d-a902-eac38731fd5a",
+        "created_at": "2023-08-08T00:34:15.786Z",
+        "updated_at": "2023-08-07T14:37:03.435Z",
+        "title": "Research Findings",
+        "content": "Analyzed market trends and competitor analysis"
+      }
+    ],
+    "course": [
+      {
+        "id": "5f2a1106-3625-459c-a879-5adc7869ae27",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language",
+        "created_at": "2023-08-07T15:26:25.578Z",
+        "updated_at": "2023-08-07T18:51:43.976Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "029f77f1-c2a3-4ff0-b57e-2aa541be2a5d",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development",
+        "created_at": "2023-08-07T17:58:47.568Z",
+        "updated_at": "2023-08-07T15:17:51.227Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "f7244d41-1c1d-4bed-a0fd-2ec9fa4cf910",
+        "title": "Data Science for Beginners",
+        "description": "Explore the world of data science and analytics",
+        "created_at": "2023-08-07T13:55:08.710Z",
+        "updated_at": "2023-08-07T11:18:18.481Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "1bd04bae-85e3-4e90-b2ab-6a9cafac4db7",
+        "title": "Project Management Essentials",
+        "description": "Gain essential skills for effective project management",
+        "created_at": "2023-08-08T01:27:00.096Z",
+        "updated_at": "2023-08-07T20:14:10.164Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "297baf3d-0b75-444e-ab03-9c407e7facec",
+        "title": "Digital Marketing Strategies",
+        "description": "Discover effective strategies for digital marketing",
+        "created_at": "2023-08-07T13:04:00.494Z",
+        "updated_at": "2023-08-08T05:15:14.600Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "f1668998-d2fc-49e5-8d5a-01fab9354d01",
+        "created_at": "2023-08-07T20:14:47.788Z",
+        "updated_at": "2023-08-07T13:55:48.806Z",
+        "course_id": "297baf3d-0b75-444e-ab03-9c407e7facec",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a00912d-c0c4-44cb-91b2-1b7722370dd4",
+        "created_at": "2023-08-07T13:07:40.463Z",
+        "updated_at": "2023-08-07T10:10:10.344Z",
+        "course_id": "029f77f1-c2a3-4ff0-b57e-2aa541be2a5d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6684a807-5651-4eb5-b8c5-0be51ebda96a",
+        "created_at": "2023-08-08T05:11:56.263Z",
+        "updated_at": "2023-08-08T08:39:54.043Z",
+        "course_id": "5f2a1106-3625-459c-a879-5adc7869ae27",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5dbc3be3-5109-4870-ad02-04f372318960",
+        "created_at": "2023-08-08T06:11:37.266Z",
+        "updated_at": "2023-08-07T12:38:24.518Z",
+        "course_id": "f7244d41-1c1d-4bed-a0fd-2ec9fa4cf910",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "81c364a1-04aa-4b04-8016-46536f844f02",
+        "created_at": "2023-08-08T05:51:57.782Z",
+        "updated_at": "2023-08-07T11:59:26.556Z",
+        "course_id": "1bd04bae-85e3-4e90-b2ab-6a9cafac4db7",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "0419eddf-41f8-4b94-902f-e43d43aaf5e2",
+        "title": "10 Tips for a Healthy Lifestyle",
+        "content": "Simple yet effective tips for maintaining a healthy lifestyle",
+        "created_at": "2023-08-07T09:16:53.588Z",
+        "updated_at": "2023-08-08T01:27:41.975Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "b216a604-ab68-4094-bf42-cf6db5f3f7c9",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Insights into the advancements and potential of AI technology",
+        "created_at": "2023-08-07T09:41:41.387Z",
+        "updated_at": "2023-08-07T13:12:39.616Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "c1d9166c-61dd-49d7-b956-dc55a69e98d7",
+        "title": "How to Improve Your Productivity",
+        "content": "Practical techniques to enhance productivity in daily life",
+        "created_at": "2023-08-08T08:52:47.500Z",
+        "updated_at": "2023-08-08T07:47:11.437Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "6bd35407-7020-4ce6-8bcd-68bbf6710d8f",
+        "title": "The Importance of Continuous Learning",
+        "content": "Why continuous learning is crucial for personal and professional growth",
+        "created_at": "2023-08-08T00:35:27.851Z",
+        "updated_at": "2023-08-07T15:01:51.100Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "5b1785c5-d68f-4cc4-b833-7c8317500f2a",
+        "title": "Effective Strategies for Remote Work",
+        "content": "Strategies and best practices for successful remote work",
+        "created_at": "2023-08-08T05:58:15.300Z",
+        "updated_at": "2023-08-07T12:09:26.149Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "notes": [
+      {
+        "id": "a13e2294-2895-4b36-ac29-f1329617401d",
+        "created_at": "2023-08-08T08:23:49.391Z",
+        "updated_at": "2023-08-07T14:44:30.310Z",
+        "title": "Meeting Notes",
+        "content": "Discussed new marketing strategy for Q4"
+      },
+      {
+        "id": "ffba5c97-c92f-4a1c-8c49-8e7e0b430362",
+        "created_at": "2023-08-08T05:01:59.277Z",
+        "updated_at": "2023-08-08T02:27:05.405Z",
+        "title": "Project Ideas",
+        "content": "Brainstormed innovative product features"
+      },
+      {
+        "id": "0cf1fd90-bddb-4858-97d0-0a56e54a4e0e",
+        "created_at": "2023-08-08T08:15:15.492Z",
+        "updated_at": "2023-08-07T17:48:36.100Z",
+        "title": "Action Items",
+        "content": "Assigned tasks for team members"
+      },
+      {
+        "id": "8812cc56-873f-42e7-abe0-4cbc4acf590d",
+        "created_at": "2023-08-07T18:26:45.543Z",
+        "updated_at": "2023-08-07T17:04:52.112Z",
+        "title": "Research Findings",
+        "content": "Analyzed data and identified trends"
+      },
+      {
+        "id": "74e54815-de05-4bf8-b119-e3303a95ef03",
+        "created_at": "2023-08-07T21:28:39.506Z",
+        "updated_at": "2023-08-08T00:51:08.849Z",
+        "title": "Conference Summary",
+        "content": "Summarized key takeaways from industry conference"
+      }
+    ],
+    "course": [
+      {
+        "id": "8f232005-8f0a-44d8-b176-ca53491b1ab3",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language",
+        "created_at": "2023-08-08T05:17:45.387Z",
+        "updated_at": "2023-08-08T00:10:12.542Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "fdb4e8cf-47b6-4a42-9d87-c3319c059dc4",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development",
+        "created_at": "2023-08-08T04:40:07.134Z",
+        "updated_at": "2023-08-07T13:58:45.094Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "1ed1f6c4-2913-4eba-b2c9-8cffd044fc5e",
+        "title": "Data Science for Beginners",
+        "description": "Explore the field of data science and its applications",
+        "created_at": "2023-08-08T04:41:10.717Z",
+        "updated_at": "2023-08-08T03:15:08.153Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "0f0d8914-325a-4b47-a3bc-4bb6ce9db9e7",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies for small businesses",
+        "created_at": "2023-08-08T04:37:25.952Z",
+        "updated_at": "2023-08-08T04:05:24.387Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "a6a9755b-7ab0-4fb0-a36a-af59143089d6",
+        "title": "Leadership Skills for Managers",
+        "description": "Develop essential leadership skills for managers",
+        "created_at": "2023-08-08T02:00:27.895Z",
+        "updated_at": "2023-08-08T06:41:50.807Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "d508250d-623a-4ea8-971c-8a64e83330c2",
+        "created_at": "2023-08-07T10:42:09.407Z",
+        "updated_at": "2023-08-07T16:24:42.530Z",
+        "course_id": "0f0d8914-325a-4b47-a3bc-4bb6ce9db9e7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b463581d-2c1b-46a4-b8eb-106b48450fcd",
+        "created_at": "2023-08-07T17:09:19.000Z",
+        "updated_at": "2023-08-08T01:14:02.890Z",
+        "course_id": "0f0d8914-325a-4b47-a3bc-4bb6ce9db9e7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "37d716dd-f1d7-456a-8288-2764f9f9ba1c",
+        "created_at": "2023-08-08T04:42:37.409Z",
+        "updated_at": "2023-08-08T06:54:26.335Z",
+        "course_id": "8f232005-8f0a-44d8-b176-ca53491b1ab3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "80ec38a3-f932-4301-98e2-1ec98f3ebd33",
+        "created_at": "2023-08-07T10:52:07.113Z",
+        "updated_at": "2023-08-08T06:32:45.277Z",
+        "course_id": "a6a9755b-7ab0-4fb0-a36a-af59143089d6",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee7e089a-d205-445f-9f83-501b462caa20",
+        "created_at": "2023-08-08T05:52:57.823Z",
+        "updated_at": "2023-08-08T08:09:44.215Z",
+        "course_id": "a6a9755b-7ab0-4fb0-a36a-af59143089d6",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "a3862a0e-c2ea-4f62-93d4-969c964e78aa",
+        "title": "10 Tips for a Healthy Lifestyle",
+        "content": "Simple and practical tips for maintaining a healthy lifestyle",
+        "created_at": "2023-08-07T22:27:17.314Z",
+        "updated_at": "2023-08-07T15:32:27.871Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "4e814c38-89af-4a36-b3b9-d3840f68527c",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Insights into the advancements and potential of AI technology",
+        "created_at": "2023-08-07T19:15:08.804Z",
+        "updated_at": "2023-08-08T07:28:55.652Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "a40deb62-e29c-4d69-a4f5-b266a517d3fe",
+        "title": "Effective Time Management Techniques",
+        "content": "Proven techniques for managing time effectively",
+        "created_at": "2023-08-07T14:02:52.521Z",
+        "updated_at": "2023-08-08T04:52:47.757Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "65048b84-556c-4ec5-a7b5-5b11284f7501",
+        "title": "How to Improve Your Communication Skills",
+        "content": "Strategies to enhance communication skills in personal and professional settings",
+        "created_at": "2023-08-07T15:27:05.072Z",
+        "updated_at": "2023-08-08T00:42:43.530Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "27ae8d26-4721-4753-bd31-beef52414bde",
+        "title": "The Benefits of Mindfulness Meditation",
+        "content": "Exploring the positive impact of mindfulness meditation on mental well-being",
+        "created_at": "2023-08-07T22:39:51.230Z",
+        "updated_at": "2023-08-07T19:43:29.873Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "notes": [
+      {
+        "id": "c65dad89-6097-4797-83b9-310e95e26d59",
+        "created_at": "2023-08-07T10:30:37.516Z",
+        "updated_at": "2023-08-07T11:45:46.756Z",
+        "title": "Meeting Notes",
+        "content": "Discussed new marketing strategy for Q4"
+      },
+      {
+        "id": "80ab6bbb-ef05-4b0b-b6b0-39122e128955",
+        "created_at": "2023-08-08T04:28:56.592Z",
+        "updated_at": "2023-08-07T18:21:38.818Z",
+        "title": "Project Updates",
+        "content": "Reviewed progress on website redesign"
+      },
+      {
+        "id": "120879de-88f9-432f-a2c9-799a1004ff3c",
+        "created_at": "2023-08-07T22:01:27.754Z",
+        "updated_at": "2023-08-07T12:23:45.144Z",
+        "title": "Ideas for Improvement",
+        "content": "Brainstormed ideas for product enhancement"
+      },
+      {
+        "id": "39319511-94a5-4890-9db2-75740175bc61",
+        "created_at": "2023-08-07T19:54:16.863Z",
+        "updated_at": "2023-08-08T01:25:08.060Z",
+        "title": "Action Items",
+        "content": "Assigned tasks for upcoming project"
+      },
+      {
+        "id": "a76ca336-6b7e-413b-bff4-4bb9de7af4c3",
+        "created_at": "2023-08-08T01:53:59.787Z",
+        "updated_at": "2023-08-08T04:53:59.962Z",
+        "title": "Research Findings",
+        "content": "Analyzed market trends and competitor analysis"
+      }
+    ],
+    "course": [
+      {
+        "id": "f56c5a9f-96cb-4a44-824e-92908724d894",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language",
+        "created_at": "2023-08-07T20:29:58.721Z",
+        "updated_at": "2023-08-08T04:52:39.789Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "fcd12ab6-efd9-4e70-b761-6533b737d5b6",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development",
+        "created_at": "2023-08-07T17:23:30.094Z",
+        "updated_at": "2023-08-07T12:58:40.128Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "78cfc632-6cc7-47bb-8fa4-cb50fa907a50",
+        "title": "Data Science for Beginners",
+        "description": "Explore the world of data science and analytics",
+        "created_at": "2023-08-07T11:31:12.515Z",
+        "updated_at": "2023-08-07T16:03:36.147Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "9f73bf7b-3ab4-4aba-bec8-47521eaeab00",
+        "title": "Project Management Essentials",
+        "description": "Gain essential skills for effective project management",
+        "created_at": "2023-08-07T23:51:27.870Z",
+        "updated_at": "2023-08-07T19:22:24.037Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "8ffde4df-ed40-474c-bfe4-49eb5d37ddad",
+        "title": "Digital Marketing Strategies",
+        "description": "Discover effective strategies for digital marketing",
+        "created_at": "2023-08-07T15:46:02.705Z",
+        "updated_at": "2023-08-07T13:01:06.996Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "bd1b22c8-9743-46c9-bd03-52b08179de07",
+        "created_at": "2023-08-08T08:25:52.140Z",
+        "updated_at": "2023-08-07T09:31:46.732Z",
+        "course_id": "78cfc632-6cc7-47bb-8fa4-cb50fa907a50",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "14a86fe4-3556-4d7d-b8d7-ee4d63f29b2f",
+        "created_at": "2023-08-07T16:08:09.483Z",
+        "updated_at": "2023-08-07T20:15:00.071Z",
+        "course_id": "9f73bf7b-3ab4-4aba-bec8-47521eaeab00",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8b0f7569-ce9b-4d45-b0e4-ec4adc7fdaf6",
+        "created_at": "2023-08-07T19:02:56.494Z",
+        "updated_at": "2023-08-08T04:19:00.151Z",
+        "course_id": "9f73bf7b-3ab4-4aba-bec8-47521eaeab00",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "521c226a-e80e-4247-a63b-b8b63f2afe26",
+        "created_at": "2023-08-07T13:16:38.933Z",
+        "updated_at": "2023-08-08T04:05:27.969Z",
+        "course_id": "8ffde4df-ed40-474c-bfe4-49eb5d37ddad",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "865441d1-60dc-4746-9f05-d930311fc109",
+        "created_at": "2023-08-07T10:48:18.396Z",
+        "updated_at": "2023-08-08T01:44:47.072Z",
+        "course_id": "8ffde4df-ed40-474c-bfe4-49eb5d37ddad",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "13aef0af-b6d2-4cd1-9498-73bd10b9c19f",
+        "title": "10 Tips for a Healthy Lifestyle",
+        "content": "Simple yet effective tips for maintaining a healthy lifestyle",
+        "created_at": "2023-08-08T04:50:14.366Z",
+        "updated_at": "2023-08-08T00:41:19.313Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "6b0ea7cd-2fba-4ce8-86ac-7ec6bc7ddab2",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Insights into the advancements and potential of AI technology",
+        "created_at": "2023-08-08T04:23:43.755Z",
+        "updated_at": "2023-08-07T18:49:28.997Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "d58e2af6-41a1-43f5-b424-d84aec17e570",
+        "title": "How to Improve Your Productivity",
+        "content": "Practical techniques to enhance productivity in daily life",
+        "created_at": "2023-08-08T07:34:26.212Z",
+        "updated_at": "2023-08-08T00:10:01.309Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "3cd2697b-b0bc-41ed-ad5b-1bf761f18b32",
+        "title": "The Importance of Continuous Learning",
+        "content": "Why continuous learning is crucial for personal and professional growth",
+        "created_at": "2023-08-07T20:14:42.085Z",
+        "updated_at": "2023-08-08T05:59:56.644Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "24217887-7b13-481c-aebf-b2bde8d0e894",
+        "title": "Effective Strategies for Remote Work",
+        "content": "Strategies for successfully working remotely and staying productive",
+        "created_at": "2023-08-08T08:46:31.397Z",
+        "updated_at": "2023-08-08T08:18:39.211Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "notes": [
+      {
+        "id": "80434ef7-414e-4c5c-8c3e-d8e428fa4fc0",
+        "created_at": "2023-08-08T05:58:49.340Z",
+        "updated_at": "2023-08-07T21:26:45.739Z",
+        "title": "Meeting Notes",
+        "content": "Discussed new marketing strategy for Q4"
+      },
+      {
+        "id": "a8babf57-e400-49d7-b763-1e5348ec20bd",
+        "created_at": "2023-08-08T07:24:39.485Z",
+        "updated_at": "2023-08-08T04:26:57.801Z",
+        "title": "Project Ideas",
+        "content": "Brainstormed innovative product features"
+      },
+      {
+        "id": "5b534e73-5496-4a37-bbcd-5b4bfb852468",
+        "created_at": "2023-08-07T22:08:02.905Z",
+        "updated_at": "2023-08-07T09:39:27.921Z",
+        "title": "Action Items",
+        "content": "Assigned tasks for team members"
+      },
+      {
+        "id": "82aaf9b1-bda0-44a3-894a-97491667d18d",
+        "created_at": "2023-08-07T11:10:50.717Z",
+        "updated_at": "2023-08-07T21:51:57.374Z",
+        "title": "Research Findings",
+        "content": "Analyzed data and identified trends"
+      },
+      {
+        "id": "76a2fd95-9ff3-4bda-b5cc-0b388ef61bcd",
+        "created_at": "2023-08-08T02:56:22.668Z",
+        "updated_at": "2023-08-07T14:40:59.129Z",
+        "title": "Conference Summary",
+        "content": "Summarized key takeaways from industry conference"
+      }
+    ],
+    "course": [
+      {
+        "id": "6e318e47-96c1-4629-a82c-442fb7e1354c",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language",
+        "created_at": "2023-08-08T03:54:35.673Z",
+        "updated_at": "2023-08-07T18:42:15.332Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "118a55aa-eac2-4b03-a945-2cadfb40b487",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development",
+        "created_at": "2023-08-07T23:29:13.231Z",
+        "updated_at": "2023-08-07T09:45:11.337Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "5d35a481-53b9-4708-a339-7b18b48115fa",
+        "title": "Data Science for Beginners",
+        "description": "Explore the field of data science and its applications",
+        "created_at": "2023-08-07T13:09:26.576Z",
+        "updated_at": "2023-08-07T16:28:39.614Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "6d93f770-e1a1-4fcf-892a-92f9b55343e8",
+        "title": "Marketing Strategies for Small Businesses",
+        "description": "Discover effective marketing strategies for small businesses",
+        "created_at": "2023-08-08T06:49:18.991Z",
+        "updated_at": "2023-08-07T14:15:23.591Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "6344f86d-136b-499b-89a5-67cebda58edb",
+        "title": "Leadership Skills for Managers",
+        "description": "Develop essential leadership skills for managers",
+        "created_at": "2023-08-08T04:50:14.639Z",
+        "updated_at": "2023-08-08T07:34:46.336Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "e00b9a63-0737-4902-ade4-1a6a1e08e991",
+        "created_at": "2023-08-07T21:46:24.939Z",
+        "updated_at": "2023-08-08T03:49:19.177Z",
+        "course_id": "5d35a481-53b9-4708-a339-7b18b48115fa",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "38e441f2-fdfe-4e39-8760-b56944fd31db",
+        "created_at": "2023-08-07T21:02:35.126Z",
+        "updated_at": "2023-08-07T23:31:43.603Z",
+        "course_id": "118a55aa-eac2-4b03-a945-2cadfb40b487",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6de296bb-31fc-4800-9119-e1f012514b27",
+        "created_at": "2023-08-07T19:21:43.952Z",
+        "updated_at": "2023-08-08T05:36:53.439Z",
+        "course_id": "6e318e47-96c1-4629-a82c-442fb7e1354c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6ff64de9-afc8-466a-a056-5fe8d06c8e9d",
+        "created_at": "2023-08-08T06:26:47.899Z",
+        "updated_at": "2023-08-07T13:05:02.159Z",
+        "course_id": "118a55aa-eac2-4b03-a945-2cadfb40b487",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "678014d7-44c3-4879-9d40-46c64c1f1343",
+        "created_at": "2023-08-07T12:23:57.400Z",
+        "updated_at": "2023-08-07T14:54:35.840Z",
+        "course_id": "118a55aa-eac2-4b03-a945-2cadfb40b487",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "13410020-6c21-46fb-8759-64e1d23e68c3",
+        "title": "10 Tips for a Healthy Lifestyle",
+        "content": "Simple and practical tips for maintaining a healthy lifestyle",
+        "created_at": "2023-08-08T01:01:25.088Z",
+        "updated_at": "2023-08-08T07:41:39.277Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "a2f9489b-92b4-4fb8-9e0e-a4360cf5bf6d",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Insights into the advancements and potential of AI technology",
+        "created_at": "2023-08-08T00:09:13.606Z",
+        "updated_at": "2023-08-07T15:07:17.112Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "fbf13f31-cb39-40c4-855b-01f626aa85ba",
+        "title": "Effective Time Management Techniques",
+        "content": "Proven techniques for managing time effectively",
+        "created_at": "2023-08-08T08:47:19.792Z",
+        "updated_at": "2023-08-08T08:17:17.252Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "3623ff30-a225-478c-9b6a-293a4317d0e1",
+        "title": "How to Improve Your Communication Skills",
+        "content": "Strategies to enhance communication skills in personal and professional settings",
+        "created_at": "2023-08-07T19:22:21.644Z",
+        "updated_at": "2023-08-07T09:56:29.802Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "4f1adcd4-640f-4fb6-8165-2c27c70c10ae",
+        "title": "The Benefits of Mindfulness Meditation",
+        "content": "Exploring the positive impact of mindfulness meditation on mental well-being",
+        "created_at": "2023-08-07T10:11:05.449Z",
+        "updated_at": "2023-08-07T20:48:17.902Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "notes": [
+      {
+        "id": "9f2e9cb7-d506-4f06-b3f8-03ad71b9b577",
+        "created_at": "2023-08-08T07:38:43.526Z",
+        "updated_at": "2023-08-07T20:04:48.815Z",
+        "title": "Meeting Notes",
+        "content": "Discussed plans for upcoming event"
+      },
+      {
+        "id": "4a486064-2adb-4648-a6ed-65f736fa86ed",
+        "created_at": "2023-08-08T06:32:37.720Z",
+        "updated_at": "2023-08-08T06:37:22.005Z",
+        "title": "Project Updates",
+        "content": "Shared progress on development tasks"
+      },
+      {
+        "id": "2ffeac20-8997-4e35-bff1-a334acb29c03",
+        "created_at": "2023-08-07T18:12:33.394Z",
+        "updated_at": "2023-08-07T22:47:18.509Z",
+        "title": "Ideas for Improvement",
+        "content": "Brainstormed ideas for marketing campaign"
+      },
+      {
+        "id": "408dbdeb-9f51-4fc1-8336-22496ac69c3c",
+        "created_at": "2023-08-07T19:06:49.149Z",
+        "updated_at": "2023-08-07T23:33:11.052Z",
+        "title": "Action Items",
+        "content": "Outlined tasks for team members"
+      },
+      {
+        "id": "3ae2e26b-a876-49d8-a326-91f4ac3cfe36",
+        "created_at": "2023-08-07T11:05:09.980Z",
+        "updated_at": "2023-08-07T14:12:50.535Z",
+        "title": "Research Findings",
+        "content": "Summarized findings from market research"
+      }
+    ],
+    "course": [
+      {
+        "id": "bbcb1a51-2a4d-4e64-8d49-0bf3176aad4a",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language",
+        "created_at": "2023-08-07T19:18:43.144Z",
+        "updated_at": "2023-08-07T23:49:38.436Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "63836a04-2737-4e08-be9d-2775c78eb035",
+        "title": "Web Development Fundamentals",
+        "description": "Explore the fundamentals of web development",
+        "created_at": "2023-08-07T09:22:57.881Z",
+        "updated_at": "2023-08-08T04:36:25.846Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "d9f4a524-f40b-4643-b37d-b3765efd2670",
+        "title": "Data Analysis Techniques",
+        "description": "Master data analysis techniques using popular tools",
+        "created_at": "2023-08-07T16:32:48.570Z",
+        "updated_at": "2023-08-07T21:21:04.757Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "90e25147-8379-4b73-9c07-2f5c12f9170c",
+        "title": "Project Management Essentials",
+        "description": "Gain essential skills for effective project management",
+        "created_at": "2023-08-08T08:35:21.191Z",
+        "updated_at": "2023-08-08T07:31:13.275Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "2c72c721-ae39-458b-8f7e-c34e66baf74b",
+        "title": "Digital Marketing Strategies",
+        "description": "Discover effective strategies for digital marketing",
+        "created_at": "2023-08-07T12:40:22.246Z",
+        "updated_at": "2023-08-08T02:35:52.952Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "d3549be0-5776-4e20-b468-e261f51604e7",
+        "created_at": "2023-08-07T15:48:15.613Z",
+        "updated_at": "2023-08-07T09:44:12.246Z",
+        "course_id": "90e25147-8379-4b73-9c07-2f5c12f9170c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "87ba5dab-969e-4355-b8d5-62e2d0d2f417",
+        "created_at": "2023-08-07T10:18:42.648Z",
+        "updated_at": "2023-08-08T01:50:58.531Z",
+        "course_id": "63836a04-2737-4e08-be9d-2775c78eb035",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "35d618d2-e8a5-405b-b9d0-2015cc09e6b6",
+        "created_at": "2023-08-07T15:34:57.604Z",
+        "updated_at": "2023-08-07T12:24:55.866Z",
+        "course_id": "2c72c721-ae39-458b-8f7e-c34e66baf74b",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "47d1571e-f2c8-46dc-bc7d-82195d3d6928",
+        "created_at": "2023-08-08T02:23:31.207Z",
+        "updated_at": "2023-08-08T07:36:18.487Z",
+        "course_id": "d9f4a524-f40b-4643-b37d-b3765efd2670",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "420e9d86-4a8a-4da8-84a7-60e6f35a62eb",
+        "created_at": "2023-08-08T08:35:46.360Z",
+        "updated_at": "2023-08-07T20:22:00.434Z",
+        "course_id": "63836a04-2737-4e08-be9d-2775c78eb035",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "4f9a3600-5886-4113-b87a-ae455a3e2004",
+        "title": "10 Tips for a Healthy Lifestyle",
+        "content": "Simple yet effective tips for maintaining a healthy lifestyle",
+        "created_at": "2023-08-08T02:18:46.608Z",
+        "updated_at": "2023-08-07T11:20:06.864Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "f40cb7d5-b64c-45a7-a153-e42fd0fa6d44",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Insights into the advancements and potential of AI",
+        "created_at": "2023-08-07T13:51:39.700Z",
+        "updated_at": "2023-08-07T12:41:01.885Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "0d3cbb07-1327-4f1f-bbe8-58e419468066",
+        "title": "Effective Communication in the Workplace",
+        "content": "Strategies for improving communication in professional settings",
+        "created_at": "2023-08-08T00:13:33.853Z",
+        "updated_at": "2023-08-07T13:13:37.025Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "23707298-6521-44f9-ad4e-75ba25a3082c",
+        "title": "The Power of Positive Thinking",
+        "content": "Exploring the impact of positive thinking on personal growth",
+        "created_at": "2023-08-08T05:07:38.582Z",
+        "updated_at": "2023-08-07T22:51:42.779Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "5fa7ee7f-973e-4a57-b722-e3fdc9f5730b",
+        "title": "How to Improve Your Productivity",
+        "content": "Practical techniques to enhance productivity in daily life",
+        "created_at": "2023-08-08T06:28:58.518Z",
+        "updated_at": "2023-08-07T22:24:47.389Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "notes": [
+      {
+        "id": "d563abd7-bfa3-4dbb-af09-52510f688350",
+        "created_at": "2023-08-08T00:53:07.975Z",
+        "updated_at": "2023-08-07T23:08:31.974Z",
+        "title": "Meeting Notes",
+        "content": "Discussed new marketing strategy for Q4"
+      },
+      {
+        "id": "1c4064b3-7a04-4b45-8335-0a03b187d628",
+        "created_at": "2023-08-08T01:35:19.239Z",
+        "updated_at": "2023-08-08T02:27:04.883Z",
+        "title": "Project Updates",
+        "content": "Reviewed progress on website redesign"
+      },
+      {
+        "id": "6cf25b78-2356-409a-8ac3-a69d9419f8bc",
+        "created_at": "2023-08-07T22:24:44.355Z",
+        "updated_at": "2023-08-08T03:40:48.198Z",
+        "title": "Ideas for Improvement",
+        "content": "Brainstormed ideas for product enhancement"
+      },
+      {
+        "id": "f0bfb51f-32b5-43c5-8b6e-70171e1a052d",
+        "created_at": "2023-08-08T05:43:34.514Z",
+        "updated_at": "2023-08-07T15:57:09.431Z",
+        "title": "Action Items",
+        "content": "Assigned tasks for upcoming sprint"
+      },
+      {
+        "id": "2f37ce08-44d3-46cc-a6b9-87b743c8ea47",
+        "created_at": "2023-08-07T09:57:28.718Z",
+        "updated_at": "2023-08-07T11:37:02.900Z",
+        "title": "Research Findings",
+        "content": "Analyzed market trends and competitor analysis"
+      }
+    ],
+    "course": [
+      {
+        "id": "a9cd2a60-3588-442f-bea0-1f6664b8ef98",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language",
+        "created_at": "2023-08-08T02:28:08.445Z",
+        "updated_at": "2023-08-08T07:47:17.874Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "969d8e42-014a-4bba-9799-32a9cd9d790f",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development",
+        "created_at": "2023-08-08T00:19:01.119Z",
+        "updated_at": "2023-08-07T20:07:18.579Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "53480a67-505f-4a5d-a592-78e9088bda06",
+        "title": "Data Science for Beginners",
+        "description": "Explore the world of data science and analytics",
+        "created_at": "2023-08-08T03:18:24.258Z",
+        "updated_at": "2023-08-08T08:25:07.140Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "69bcc202-4cdf-4932-a194-bfd7765d50cc",
+        "title": "Project Management Essentials",
+        "description": "Gain essential skills for effective project management",
+        "created_at": "2023-08-08T04:39:40.731Z",
+        "updated_at": "2023-08-08T01:55:58.318Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "02713a3c-2c3d-494e-90e0-696681d5e209",
+        "title": "Digital Marketing Strategies",
+        "description": "Discover effective strategies for digital marketing",
+        "created_at": "2023-08-07T14:59:30.094Z",
+        "updated_at": "2023-08-07T16:14:15.147Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "7cd09ba1-a9dd-4fe4-afa2-d4cd8b20d829",
+        "created_at": "2023-08-08T01:27:05.725Z",
+        "updated_at": "2023-08-07T10:29:24.419Z",
+        "course_id": "969d8e42-014a-4bba-9799-32a9cd9d790f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "99e7331d-8a72-4ee9-a4c3-538d13679479",
+        "created_at": "2023-08-07T11:48:13.203Z",
+        "updated_at": "2023-08-07T14:59:40.715Z",
+        "course_id": "02713a3c-2c3d-494e-90e0-696681d5e209",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f29f2072-3630-46f7-917b-d29f565ce8b4",
+        "created_at": "2023-08-08T06:31:58.293Z",
+        "updated_at": "2023-08-07T23:46:28.838Z",
+        "course_id": "a9cd2a60-3588-442f-bea0-1f6664b8ef98",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "04d62edf-328f-4c7c-b296-913fd4ba0ffd",
+        "created_at": "2023-08-08T09:03:38.970Z",
+        "updated_at": "2023-08-08T00:08:00.939Z",
+        "course_id": "53480a67-505f-4a5d-a592-78e9088bda06",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8dccecd4-1c2b-4746-8c1e-e547fb382a2a",
+        "created_at": "2023-08-08T09:13:14.830Z",
+        "updated_at": "2023-08-08T08:52:23.335Z",
+        "course_id": "53480a67-505f-4a5d-a592-78e9088bda06",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "e5079c24-b7e8-4d41-afaa-dddace8aae1b",
+        "title": "10 Tips for a Healthy Lifestyle",
+        "content": "Simple and practical tips for maintaining a healthy lifestyle",
+        "created_at": "2023-08-07T13:05:52.871Z",
+        "updated_at": "2023-08-08T00:15:18.280Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "99bdcd63-13d4-4cf2-9d95-48c5435eb6e6",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Insights into the advancements and potential of AI technology",
+        "created_at": "2023-08-07T23:49:19.087Z",
+        "updated_at": "2023-08-08T05:50:40.580Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "c4219151-5aa0-4d63-adf0-75932a59c077",
+        "title": "How to Improve Your Productivity",
+        "content": "Proven techniques to enhance productivity and achieve goals",
+        "created_at": "2023-08-08T00:34:53.113Z",
+        "updated_at": "2023-08-07T10:22:52.718Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "746c9ee7-7bb8-4122-a8c0-aad74c730afb",
+        "title": "The Importance of Continuous Learning",
+        "content": "Why continuous learning is crucial for personal and professional growth",
+        "created_at": "2023-08-07T16:51:55.928Z",
+        "updated_at": "2023-08-07T22:24:37.815Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "c20d0fc7-a318-412c-a4bf-fee9347c9d7d",
+        "title": "Effective Strategies for Remote Work",
+        "content": "Strategies for successfully working remotely and staying productive",
+        "created_at": "2023-08-08T02:15:45.773Z",
+        "updated_at": "2023-08-07T21:06:45.435Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "notes": [
+      {
+        "id": "2026c5ed-f6ad-4eb9-8dc3-4576f71c52c2",
+        "created_at": "2023-08-07T13:46:14.397Z",
+        "updated_at": "2023-08-07T15:51:16.615Z",
+        "title": "Meeting Notes",
+        "content": "Discussed new marketing strategy for Q4"
+      },
+      {
+        "id": "76049b2e-da58-4c89-b3d3-3e15c382fcb6",
+        "created_at": "2023-08-08T08:10:12.857Z",
+        "updated_at": "2023-08-07T22:53:00.800Z",
+        "title": "Project Updates",
+        "content": "Reviewed progress on website redesign"
+      },
+      {
+        "id": "0db879b1-4389-492b-8417-cc9e405913b4",
+        "created_at": "2023-08-07T18:05:46.310Z",
+        "updated_at": "2023-08-07T10:33:23.540Z",
+        "title": "Ideas for Improvement",
+        "content": "Brainstormed ideas for product enhancement"
+      },
+      {
+        "id": "1e83f80d-ca1c-4a8a-b860-98b6ced66bae",
+        "created_at": "2023-08-08T05:59:23.020Z",
+        "updated_at": "2023-08-07T21:28:23.573Z",
+        "title": "Action Items",
+        "content": "Assigned tasks for upcoming sprint"
+      },
+      {
+        "id": "e9fd2063-d94b-4c87-b968-62f03d8c04a8",
+        "created_at": "2023-08-07T17:33:23.430Z",
+        "updated_at": "2023-08-07T22:05:57.021Z",
+        "title": "Research Findings",
+        "content": "Analyzed data from customer survey"
+      }
+    ],
+    "course": [
+      {
+        "id": "67f9ac4d-d0cc-4a0a-948a-72098b69e62d",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language",
+        "created_at": "2023-08-08T03:13:49.351Z",
+        "updated_at": "2023-08-08T08:40:32.070Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "5eea96b1-839c-457c-9687-7e89d01e5f90",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development",
+        "created_at": "2023-08-08T06:02:50.446Z",
+        "updated_at": "2023-08-08T04:15:56.804Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "02d1617c-4101-4f6a-ac6e-5b7bd90b1ba5",
+        "title": "Data Analysis Techniques",
+        "description": "Explore various data analysis techniques using Python",
+        "created_at": "2023-08-08T05:15:31.379Z",
+        "updated_at": "2023-08-07T19:21:49.016Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "6ee4e489-4af3-4de0-b7f7-f3e454c65850",
+        "title": "Project Management Essentials",
+        "description": "Gain essential skills for effective project management",
+        "created_at": "2023-08-08T05:20:59.029Z",
+        "updated_at": "2023-08-07T13:02:18.725Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "b32db774-36f8-4d63-a5b8-8399ed890f07",
+        "title": "Digital Marketing Strategies",
+        "description": "Discover effective strategies for digital marketing",
+        "created_at": "2023-08-07T13:49:31.950Z",
+        "updated_at": "2023-08-07T23:58:28.493Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "383dcbe5-b83c-4eb2-8c6b-63a6afdf97d8",
+        "created_at": "2023-08-07T17:33:30.393Z",
+        "updated_at": "2023-08-08T08:35:26.046Z",
+        "course_id": "b32db774-36f8-4d63-a5b8-8399ed890f07",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0f4857be-20a0-43db-9ee8-bfe4ba42b24a",
+        "created_at": "2023-08-07T19:38:05.914Z",
+        "updated_at": "2023-08-08T03:16:50.494Z",
+        "course_id": "67f9ac4d-d0cc-4a0a-948a-72098b69e62d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1f0d04b5-f69f-469d-8039-c4dfe7b5d3d2",
+        "created_at": "2023-08-07T16:48:30.777Z",
+        "updated_at": "2023-08-07T11:15:47.482Z",
+        "course_id": "6ee4e489-4af3-4de0-b7f7-f3e454c65850",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "848b8224-bba5-4e50-80bc-16d0a0d3f569",
+        "created_at": "2023-08-08T08:02:22.667Z",
+        "updated_at": "2023-08-08T07:48:19.379Z",
+        "course_id": "67f9ac4d-d0cc-4a0a-948a-72098b69e62d",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "594699ff-4d1e-42d5-8e75-bc4637e1dc01",
+        "created_at": "2023-08-08T05:03:45.094Z",
+        "updated_at": "2023-08-07T15:32:24.692Z",
+        "course_id": "67f9ac4d-d0cc-4a0a-948a-72098b69e62d",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "428b8a12-e9de-4196-85a4-2e333aebb991",
+        "title": "10 Tips for a Healthy Lifestyle",
+        "content": "Simple and practical tips for maintaining a healthy lifestyle",
+        "created_at": "2023-08-08T08:48:53.602Z",
+        "updated_at": "2023-08-07T18:56:12.421Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "805cff0a-f26f-49f0-b20f-fb3be66e8a15",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Insights into the advancements and potential of AI technology",
+        "created_at": "2023-08-07T19:02:26.150Z",
+        "updated_at": "2023-08-08T02:44:55.586Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "15bc076c-f83c-4b20-b497-ddd21b1263cc",
+        "title": "Effective Communication in the Workplace",
+        "content": "Strategies for effective communication in a professional setting",
+        "created_at": "2023-08-07T23:40:03.208Z",
+        "updated_at": "2023-08-08T09:08:02.274Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "e7cc01a7-b34a-44c7-9584-227ec5f9454d",
+        "title": "The Power of Positive Thinking",
+        "content": "Exploring the impact of positive thinking on personal growth",
+        "created_at": "2023-08-07T09:59:57.462Z",
+        "updated_at": "2023-08-08T08:43:23.263Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "ba6264eb-32ac-4075-87ac-1a82bee931c8",
+        "title": "How to Improve Your Productivity",
+        "content": "Practical techniques to enhance productivity and efficiency",
+        "created_at": "2023-08-07T20:56:35.589Z",
+        "updated_at": "2023-08-08T03:51:44.577Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "notes": [
+      {
+        "id": "3ecd8cfc-2d09-4996-abfc-97ba335328fa",
+        "created_at": "2023-08-07T13:11:09.347Z",
+        "updated_at": "2023-08-07T10:04:42.926Z",
+        "title": "Meeting Notes",
+        "content": "Discussed new marketing strategy for Q4"
+      },
+      {
+        "id": "6781d359-9ca1-4ed9-9b09-ad3df67aaf94",
+        "created_at": "2023-08-08T04:44:24.052Z",
+        "updated_at": "2023-08-08T05:08:29.283Z",
+        "title": "Project Updates",
+        "content": "Reviewed progress on website redesign"
+      },
+      {
+        "id": "b96a4fba-b6f1-43f2-b179-b55dc51ccaaf",
+        "created_at": "2023-08-07T19:30:44.207Z",
+        "updated_at": "2023-08-07T12:42:01.980Z",
+        "title": "Ideas for Improvement",
+        "content": "Brainstormed ideas for product enhancement"
+      },
+      {
+        "id": "09a6bb39-b347-4bb0-8661-af4609146456",
+        "created_at": "2023-08-07T13:39:24.280Z",
+        "updated_at": "2023-08-07T21:19:52.766Z",
+        "title": "Action Items",
+        "content": "Assigned tasks for upcoming sprint"
+      },
+      {
+        "id": "268820db-491a-454f-9c2d-3275038c99ab",
+        "created_at": "2023-08-07T14:22:34.168Z",
+        "updated_at": "2023-08-07T14:23:00.594Z",
+        "title": "Research Findings",
+        "content": "Analyzed market trends and competitor analysis"
+      }
+    ],
+    "course": [
+      {
+        "id": "41eb50b7-9404-4184-bbcb-3dfd65da341d",
+        "title": "Introduction to Python Programming",
+        "description": "Learn the basics of Python programming language",
+        "created_at": "2023-08-07T21:30:15.868Z",
+        "updated_at": "2023-08-07T14:40:48.030Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "e3989148-06e1-4cef-89b4-42daa7f868fe",
+        "title": "Web Development Fundamentals",
+        "description": "Master the fundamentals of web development",
+        "created_at": "2023-08-08T03:07:19.952Z",
+        "updated_at": "2023-08-07T16:22:25.514Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "1f501527-cd2b-45f3-aef5-e69045aad154",
+        "title": "Data Science for Beginners",
+        "description": "Explore the world of data science and analytics",
+        "created_at": "2023-08-07T20:12:59.741Z",
+        "updated_at": "2023-08-08T09:05:20.730Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "80b87dda-cb77-45d3-a510-232f4d89e944",
+        "title": "Project Management Essentials",
+        "description": "Gain essential skills for effective project management",
+        "created_at": "2023-08-08T04:03:46.694Z",
+        "updated_at": "2023-08-08T05:36:22.432Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "7db8bac7-02cc-4f57-9caa-3466a22afe7f",
+        "title": "Digital Marketing Strategies",
+        "description": "Discover effective strategies for digital marketing",
+        "created_at": "2023-08-08T03:51:06.414Z",
+        "updated_at": "2023-08-07T17:48:31.280Z",
+        "creator_id": "user_entity_pk"
+      }
+    ],
+    "enrollment": [
+      {
+        "id": "276938f9-828c-481a-abd2-42333ee774b4",
+        "created_at": "2023-08-07T20:01:41.345Z",
+        "updated_at": "2023-08-08T08:02:57.394Z",
+        "course_id": "80b87dda-cb77-45d3-a510-232f4d89e944",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "87359e3b-0956-4fc3-876e-dd007edf943e",
+        "created_at": "2023-08-08T04:59:15.794Z",
+        "updated_at": "2023-08-07T09:33:11.450Z",
+        "course_id": "e3989148-06e1-4cef-89b4-42daa7f868fe",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ef9cc0ce-59eb-4c98-94c3-ab7f2ff1e454",
+        "created_at": "2023-08-07T21:30:53.294Z",
+        "updated_at": "2023-08-08T03:00:10.114Z",
+        "course_id": "e3989148-06e1-4cef-89b4-42daa7f868fe",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c902b4f9-9741-42b9-b846-e974ce28601b",
+        "created_at": "2023-08-07T21:54:28.207Z",
+        "updated_at": "2023-08-08T01:51:18.480Z",
+        "course_id": "1f501527-cd2b-45f3-aef5-e69045aad154",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ed080902-9bb2-4e63-9ae0-3874cb606481",
+        "created_at": "2023-08-08T06:31:15.475Z",
+        "updated_at": "2023-08-07T09:55:19.087Z",
+        "course_id": "80b87dda-cb77-45d3-a510-232f4d89e944",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "blog": [
+      {
+        "id": "c14f8d2e-0b73-4479-9399-5533a7870129",
+        "title": "10 Tips for a Healthy Lifestyle",
+        "content": "Simple and practical tips for maintaining a healthy lifestyle",
+        "created_at": "2023-08-08T02:43:03.285Z",
+        "updated_at": "2023-08-08T07:02:26.191Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "6f1103b9-0551-4538-9200-fd4f161b305a",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Insights into the advancements and potential of AI technology",
+        "created_at": "2023-08-08T00:58:46.940Z",
+        "updated_at": "2023-08-07T09:31:39.041Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "1253ce56-5270-4564-954f-baa0585afae1",
+        "title": "How to Improve Your Productivity",
+        "content": "Proven techniques to enhance productivity and achieve goals",
+        "created_at": "2023-08-07T17:31:30.241Z",
+        "updated_at": "2023-08-07T22:13:27.284Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "56c4f26c-c60e-430e-ac7f-a1a3950a042c",
+        "title": "The Importance of Continuous Learning",
+        "content": "Why continuous learning is crucial for personal and professional growth",
+        "created_at": "2023-08-08T01:26:22.506Z",
+        "updated_at": "2023-08-07T09:52:07.738Z",
+        "creator_id": "user_entity_pk"
+      },
+      {
+        "id": "80a34f8e-1cd6-44ff-bd3c-920c1ada4b47",
+        "title": "Effective Strategies for Remote Work",
+        "content": "Strategies to thrive in a remote work environment",
+        "created_at": "2023-08-07T16:14:19.830Z",
+        "updated_at": "2023-08-07T15:44:46.883Z",
+        "creator_id": "user_entity_pk"
+      }
+    ]
+  }
+]
